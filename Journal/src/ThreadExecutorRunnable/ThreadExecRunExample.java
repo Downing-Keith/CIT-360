@@ -39,7 +39,7 @@ class UseThreads {
         System.out.println("Main thread starting");
 
         //First, the MyThread Object is constructed.
-        MyThread mt = new MyThread("Child #1");
+        MyThread mt = new MyThread("Student #1");
 
         for (int i = 0; i < 50; i++) {
             System.out.print(".");
