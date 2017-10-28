@@ -40,7 +40,3 @@ public class BeanTest1 implements Serializable{
     }
 }
 
-
-/* 
-This website was referenced. https://www.youtube.com/watch?v=KRK5fvgmcTc
-*/
