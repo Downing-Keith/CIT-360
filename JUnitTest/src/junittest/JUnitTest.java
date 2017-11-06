@@ -59,7 +59,7 @@ public class JUnitTest {
         
         // Asserts That
         assertThat(variable1, is("abc"));
-        System.out.println("int variable1 = 1)"); 
+        
         
         //
     
